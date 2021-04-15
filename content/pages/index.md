@@ -17,7 +17,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: 'Online Shopping Mauritius: Online Shops & Delivery Services'
-  description: 'Independent reviews of the growing sector '
+  description: >-
+    Independent reviews of the growing sector of Online Shopping in Mauritius.
+    Selected and reviewed the 
   extra:
     - name: 'og:type'
       value: website
