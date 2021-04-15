@@ -16,7 +16,7 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: 'Online Shopping Mauritius: Editorial Reviews'
+  title: 'Online Shopping Mauritius: Online Shops & Delivery Services'
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
