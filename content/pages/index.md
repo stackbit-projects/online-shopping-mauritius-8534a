@@ -39,5 +39,9 @@ seo:
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/splendid-maple.png
+      keyName: property
+      relativeUrl: true
 layout: home
 ---
